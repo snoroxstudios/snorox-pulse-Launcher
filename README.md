@@ -1,7 +1,9 @@
 # Pulse Launcher
  
 A small Windows app that installs, updates and starts **[Snorox Pulse](https://github.com/snoroxstudios/snorox-pulse)**.
+
 Download the Launcher here: **https://github.com/snoroxstudios/snorox-pulse-Launcher/releases/tag/1.0.0fix**
+
 It lists every Pulse version that exists on GitHub. Take the newest one, or go back to an older one if a new version doesn't sit right with you. One window, no hunting around for setup files.
  
 <img width="1072" height="673" alt="image" src="https://github.com/user-attachments/assets/096d8c6f-3a29-4371-aff6-011d1806160a" />
